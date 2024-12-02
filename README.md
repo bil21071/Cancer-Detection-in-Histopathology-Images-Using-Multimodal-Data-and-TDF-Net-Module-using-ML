@@ -1,0 +1,2 @@
+# Cancer-Detection-in-Histopathology-Images-Using-Multimodal-Data-and-TDF-Net-Module-using-ML
+The objective of this project is to develop an advanced system for cancer detection in histopathology images using multimodal data and the TDF-Net (Temporal Difference Fusion Network) module. The system aims to combine different types of data, such as histopathology images, genetic data, and patient metadata, to improve the accuracy .
